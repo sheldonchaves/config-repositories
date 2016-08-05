@@ -16,4 +16,4 @@ while read repo; do
 		git clone $repo;
 	fi
 
-done < repositories.txt
+done < $1

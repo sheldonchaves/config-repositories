@@ -1,0 +1,13 @@
+######## client-linkapp ######
+https://bitbucket.org/sheldonchaves/sec.git
+https://bitbucket.org/sheldonchaves/sec2.git
+https://bitbucket.org/sheldonchaves/newsec.git
+https://bitbucket.org/sheldonchaves/animation.git
+https://bitbucket.org/sheldonchaves/avenuegeo.git
+######## client-rs ######
+https://bitbucket.org/sheldonchaves/passagem.git
+######## client-linkage ######
+https://bitbucket.org/sheldonchaves/sitelinkage.git
+https://bitbucket.org/sheldonchaves/pl2016.git
+######## client-indaia ######
+https://bitbucket.org/sheldonchaves/indaia-help.git

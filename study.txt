@@ -1,0 +1,51 @@
+######## study-frontend ######
+git@github.com:sheldonchaves/regex.git
+git@github.com:sheldonchaves/js-threejs.git
+git@github.com:sheldonchaves/ES6.git
+git@github.com:sheldonchaves/svg.git
+git@github.com:sheldonchaves/meteor.git
+git@github.com:sheldonchaves/shopping.git
+git@github.com:sheldonchaves/js-threejs.git
+git@bitbucket.org:sheldonchaves/animation.git
+git@bitbucket.org:sheldonchaves/avenuegeo.git
+git@bitbucket.org:sheldonchaves/pixiProject.git
+git@github.com:sheldonchaves/javascript.git
+git@github.com:sheldonchaves/js.git
+git@bitbucket.org:sheldonchaves/wizard.git
+######## study-angular ######
+git@bitbucket.org:sheldonchaves/angular.git
+git@bitbucket.org:sheldonchaves/regent.git
+######## study-backend ######
+git@github.com:sheldonchaves/spring.git
+git@github.com:sheldonchaves/Vaadin.git
+git@github.com:sheldonchaves/SpringMvc.git
+git@github.com:sheldonchaves/SpringBoot.git
+git@github.com:sheldonchaves/JsfPrimefaces.git
+git@github.com:sheldonchaves/JaxRestEasy.git
+git@github.com:sheldonchaves/meu-controle-financeiro.git
+git@github.com:sheldonchaves/hibernate-basic.git
+git@github.com:sheldonchaves/fj26.git
+git@github.com:sheldonchaves/tasks.git
+git@bitbucket.org:sheldonchaves/newsec.git
+git@bitbucket.org:sheldonchaves/sec.git
+git@bitbucket.org:sheldonchaves/sec2.git
+git@bitbucket.org:sheldonchaves/newsec.git
+git@bitbucket.org:sheldonchaves/secsample.git
+git@bitbucket.org:sheldonchaves/sistemas-notas-fiscais.git
+git@bitbucket.org:sheldonchaves/spring-complete.git
+git@bitbucket.org:sheldonchaves/spring-hibernate-maven.git
+git@bitbucket.org:sheldonchaves/spring-sec-bootstrap-repository.git
+git@bitbucket.org:sheldonchaves/spring-security-hibernate.git
+git@bitbucket.org:sheldonchaves/model2wizard.git
+######## study-misc ######
+git@github.com:sheldonchaves/shortcuts.git
+git@github.com:sheldonchaves/patterns.git
+######## study-config ######
+git@github.com:sheldonchaves/config-repositories.git
+git@github.com:sheldonchaves/after-install.git
+######## study-scripts ######
+git@github.com:sheldonchaves/hacker-scripts.git
+######## study-server ######
+git@github.com:sheldonchaves/server.git
+######## study-db ######
+git@github.com:sheldonchaves/mysql.git

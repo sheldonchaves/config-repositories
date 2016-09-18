@@ -1,13 +1,13 @@
 ######## client-linkapp ######
-https://bitbucket.org/sheldonchaves/sec.git
-https://bitbucket.org/sheldonchaves/sec2.git
-https://bitbucket.org/sheldonchaves/newsec.git
-https://bitbucket.org/sheldonchaves/animation.git
-https://bitbucket.org/sheldonchaves/avenuegeo.git
 ######## client-rs ######
-https://bitbucket.org/sheldonchaves/passagem.git
+git@bitbucket.org:sheldonchaves/passagem.git
 ######## client-linkage ######
-https://bitbucket.org/sheldonchaves/sitelinkage.git
-https://bitbucket.org/sheldonchaves/pl2016.git
+git@bitbucket.org:sheldonchaves/sitelinkage.git
+git@bitbucket.org:sheldonchaves/pl2016.git
+git@bitbucket.org:sheldonchaves/publicidade-legal.git
 ######## client-indaia ######
-https://bitbucket.org/sheldonchaves/indaia-help.git
+git@bitbucket.org:sheldonchaves/indaia-help.git
+######## client-fusion7 ######
+git@bitbucket.org:fusion7/datahub-admin.git
+######## client-dc ######
+git@bitbucket.org:sheldonchaves/dcmineracao.git

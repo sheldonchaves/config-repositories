@@ -16,4 +16,6 @@ while read repo; do
 		git clone $repo;
 	fi
 
+	echo " -- "
+
 done < $1
